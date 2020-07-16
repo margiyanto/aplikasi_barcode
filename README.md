@@ -1,0 +1,1 @@
+BarQRCode+Generate
